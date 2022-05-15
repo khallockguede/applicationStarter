@@ -1299,6 +1299,19 @@
       "latitude": "84.5635",
       "longitude": "-92.6138",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg"
+    },
+    {
+      "name": "Vincent Schuster IV",
+      "dob": "1967-7-6",
+      "email": "Vincent.Schuster@hotmail.com",
+      "username": "Vincent86",
+      "password": "MOdAp4wo3g61ofY",
+      "phone": "238.764.9370 x21313",
+      "streetaddress": "0288 Gwendolyn Camp",
+      "citystatezip": "Port Michaela, SD 08832",
+      "latitude": "-13.3200",
+      "longitude": "-46.9169",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/necodymiconer/128.jpg"
     }
   ]
 }
